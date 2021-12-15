@@ -15,8 +15,8 @@ Syntax highlighted code block
 ## 存储管理
 ### 实践
 
-- 详解Kubernetes PV的回收策略(./kubernetes/存储管理/实践/详解Kubernetes PV的回收策略.md)
-- Kubernetes如何绑定PVC到特定的PV(./kubernetes/存储管理/实践/Kubernetes如何绑定PVC到特定的PV.md)
+- [详解Kubernetes PV的回收策略](./kubernetes/存储管理/实践/详解Kubernetes PV的回收策略.md)
+- [Kubernetes如何绑定PVC到特定的PV](./kubernetes/存储管理/实践/Kubernetes如何绑定PVC到特定的PV.md)
 
 1. Numbered
 2. List
