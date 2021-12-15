@@ -11,19 +11,19 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# kubernetes
+## 存储管理
+### 实践
 
-- Bulleted
-- List
+- 详解Kubernetes PV的回收策略(./kubernetes/存储管理/实践/详解Kubernetes PV的回收策略.md)
+- Kubernetes如何绑定PVC到特定的PV(./kubernetes/存储管理/实践/Kubernetes如何绑定PVC到特定的PV.md)
 
 1. Numbered
 2. List
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Kubernetes如何绑定PVC到特定的PV](./kubernetes/存储管理/实践) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
